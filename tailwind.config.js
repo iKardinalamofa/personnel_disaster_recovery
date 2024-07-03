@@ -13,7 +13,11 @@ module.exports = {
         secondary: '#D1FADF',
         tertiary: '#027A48',
         dashSide: '#334054',
-        border: '#D0D5DD'
+        border: '#D0D5DD',
+        pending: '#175CD3',
+        pendingBg: '#EFF8FF',
+        suspend: '#B42318',
+        suspendBg: '#FEF3F2'
       }
     },
   },
